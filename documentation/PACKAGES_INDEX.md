@@ -45,3 +45,5 @@ $ pm uninstall -k --user 0 com.package.app
 * `com.sec.android.app.camera` - Samsung Camera
 * `com.samsung.android.sm` - Samsung Smart Manager
 * `com.samsung.android.themecenter` - Samsung Theme Center
+
+## Xiaomi
