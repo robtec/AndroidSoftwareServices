@@ -23,6 +23,8 @@ $ pm uninstall -k --user 0 com.package.app
 
 ## Google 
 
+* `com.google.android.googlequicksearchbox` - Google App
+* `com.google.android.apps.googleassistant` - Google Assistant
 * `com.google.android.talk` - Google Handouts
 * `com.google.android.apps.photos ` - Google Photos
 * `com.google.android.apps.docs` - Google Drive
@@ -30,6 +32,13 @@ $ pm uninstall -k --user 0 com.package.app
 * `com.google.android.youtube` - Youtube
 * `com.google.android.music` - Google Music
 * `com.google.android.videos` - Google Movies
+* `com.google.android.keep` - Google Keep
+* `com.google.android.calculator` - Calculator
+* `com.google.android.calendar` - Calander
+* `com.android.chrome` - Chrome
+* `com.google.android.apps.tachyon` - Google Duo
+* `com.google.android.apps.books` - Google Books
+* `com.google.android.play.games` - Google Games
 
 ## Samsung
 
@@ -47,3 +56,45 @@ $ pm uninstall -k --user 0 com.package.app
 * `com.samsung.android.themecenter` - Samsung Theme Center
 
 ## Xiaomi
+
+* `com.miui.analytics` - Analytics
+* `com.miui.personalassistant` - App Vault
+* `com.mi.android.globalpersonalassistant` - App Vault
+* `com.android.browser` - Broswer
+* `com.miui.calculator` - Calculator
+* `com.android.calendar` - Calander
+* `com.miui.cleanmaster` - Clean Master
+* `com.android.deskclock` - Clock
+* `com.miui.compass` - Compass
+* `com.android.providers.downloads.ui` - Downloads
+* `com.miui.bugreport` - Feedback
+* `com.miui.fm` - FM Radio
+* `com.xiaomi.glgm` - Games
+* `com.miui.klo.bugreport` - Bug Report
+* `com.xiaomi.ab` - MAB
+* `com.android.email` - Mail
+* `com.miui.voiceassist` - MI AI
+* `com.xiaomi.mipicks` - MI App Store
+* `com.miui.cloudservice` - Mi Cloud
+* `com.miui.cloudbackup` - Mi Cloud Backup
+* `com.xiaomi.payment` Mi Credit
+* `com.xiaomi.midrop` - Mi Drop
+* `com.mi.android.globalFileexplorer` - File Explorer
+* `com.miui.virtualsim` - Mi Roaming
+* `com.miui.video` - Mi Video
+* `com.miui.videoplayer` - Mi Video Player
+* `com.mipay.wallet` - MI Wallet
+* `com.miui.daemon` - Mi Daemon
+* `com.miui.msa.global` - MSA
+* `com.miui.systemAdSolution` - MSA
+* `com.miui.player` - Music Player
+* `com.miui.notes` - Notes
+* `com.miui.hybrid` - Quick Apps
+* `com.android.soundrecorder` - Recorder
+* `com.xiaomi.scanner` - Scanner
+* `com.miui.screenrecorder` - Screen Recorder
+* `com.miui.weather2` - Weather
+* `com.xiaomi.vipaccount` - Xiaomi Account
+* `com.xiaomi.xmsf` - Xiaomi Service Framework
+* `com.miui.yellowpage` - Yellow Pages
+* `com.xiaomi.simactivate.service` - Xiaomi SIM Activate Service
