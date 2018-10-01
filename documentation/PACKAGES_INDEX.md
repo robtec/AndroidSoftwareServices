@@ -33,9 +33,9 @@ $ pm uninstall -k --user 0 com.package.app
 * `com.google.android.music` - Google Music
 * `com.google.android.videos` - Google Movies
 * `com.google.android.keep` - Google Keep
-* `com.google.android.calculator` - Calculator
-* `com.google.android.calendar` - Calander
-* `com.android.chrome` - Chrome
+* `com.google.android.calculator` - Google Calculator
+* `com.google.android.calendar` - Google Calander
+* `com.android.chrome` - Google Chrome
 * `com.google.android.apps.tachyon` - Google Duo
 * `com.google.android.apps.books` - Google Books
 * `com.google.android.play.games` - Google Games
