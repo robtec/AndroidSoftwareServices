@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 
+no_package_file_error="*** Please specify a file of package names ***"
 no_adb_error=">> I require adb but it's not installed (on PATH). Aborting. <<"
 no_adb_device_error=">> No adb device found <<"
 
 if [ -z $1 ]; then
-    echo "*** Please specify a file of package names ***"
+    echo "$no_package_file_error"
     exit 1
 fi
 
