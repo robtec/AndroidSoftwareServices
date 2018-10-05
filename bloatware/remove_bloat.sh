@@ -16,9 +16,11 @@ adb shell echo hello >/dev/null 2>&1 || { echo >&2 "$no_adb_device_error"; exit 
 echo "using file $1"
 
 for p in $(cat $1)
-
 do
-    echo "removing $p"
-	adb shell pm uninstall -k --user 0 $p
+    pkg=$(echo $p | awk -F '#' '{print $1}')
+    desc=$(echo $p | awk -F '#' '{print $2}')
+
+    echo "removing $desc - $pkg"
+	adb shell pm uninstall -k --user 0 $pkg
     sleep 1
 done
