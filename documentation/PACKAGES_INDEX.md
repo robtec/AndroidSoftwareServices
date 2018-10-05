@@ -98,3 +98,4 @@ $ pm uninstall -k --user 0 com.package.app
 * `com.xiaomi.xmsf` - Xiaomi Service Framework
 * `com.miui.yellowpage` - Yellow Pages
 * `com.xiaomi.simactivate.service` - Xiaomi SIM Activate Service
+* `com.xiaomi.android.apps.authenticator2` - Xiaomi Authenticator
